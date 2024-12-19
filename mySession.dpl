@@ -1,0 +1,14 @@
+﻿<AssemblyExplorer>
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Core.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Xml.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Data.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Web.dll" />
+  <Assembly Path="C:\Windows\System32\AdvancedInstallers\cmiv2.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll" />
+  <Assembly Path="C:\Windows\Microsoft.NET\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" />
+  <Assembly Path="C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll" />
+  <Assembly Path="C:\WINDOWS\SysWOW64\XtuInterface.dll" />
+  <Assembly Path="C:\Windows\ShellExperiences\PeopleBarFlyout.dll" />
+</AssemblyExplorer>
