@@ -1,4 +1,4 @@
-'''Linux
+'''.ghrc
 
 import NodeWallet from "./nodewallet";
 import { isBrowser } from "./utils/common.js";
