@@ -2,10 +2,13 @@ name: DApp CI & Deploy
 
 on:
   push:
-    branches: [main]
+    branches: [read]
   pull_request:
     branches: [dapp]
-
+steps:
+    - uses: actions/labeler@v4
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
 jobs:
   build-test-deploy:
     runs-on: ubuntu-latest
